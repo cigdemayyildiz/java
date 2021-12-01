@@ -68,10 +68,5 @@ public class CupTest_GC {
         // null olarak tanimladigimiz her seyi java cope gondersin diye en sona bu komutu yaziyoruz.
         // it should be at the end of the class(all codes)
         // it clears the unused data
-
-
-
-
-
     }
 }

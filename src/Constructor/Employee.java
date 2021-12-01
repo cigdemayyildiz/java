@@ -39,8 +39,4 @@ public class Employee {
     public Employee(String newGender){ // you can create more than one constructor with same name but different parameter
         gender = newGender;
     }
-
-
-
-
 }

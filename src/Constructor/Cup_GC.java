@@ -50,6 +50,4 @@ public class Cup_GC {
         - method overriding happens in different classes
         - there should be parent-child relationship between those two class
     */
-
-
 }

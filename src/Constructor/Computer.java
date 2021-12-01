@@ -1,7 +1,6 @@
 package Constructor;
 
 public class Computer {
-
     double price;
 
     public static double calculator(double [] compPrice){

@@ -17,7 +17,6 @@ public class CarTest {
         Car herCar = new Car("Nissan");
         Car hisCar = new Car("Infinity");
 
-
         System.out.println(yourCar); // Your car brand is Toyota
         yourCar=null;
         //System.gc();
@@ -30,7 +29,6 @@ public class CarTest {
 
         String str4 = new String("Test");
         String str5 = new String("Test");
-
 
         System.out.println(myCar == myCar); // true --> iki object karsilastirirken == kullan
         System.out.println(myCar == herCar); // false --> iki object karsilastirilirken Stack icindeki reference ile
@@ -55,7 +53,5 @@ public class CarTest {
 
         // eger object veya String object karsilastiriyorsan o zaman == kullan
         // eger iki String karsilastiriyorsan equals(); method kullan
-
-
     }
 }

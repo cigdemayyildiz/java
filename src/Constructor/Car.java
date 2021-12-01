@@ -1,7 +1,6 @@
 package Constructor;
 
 public class Car {
-
     String brandOfCar;
 
     public Car() {

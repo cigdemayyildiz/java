@@ -19,6 +19,5 @@ public class EmployeeTest {
         employee1.info();
         System.out.println();
         employee2.info();
-
     }
 }
