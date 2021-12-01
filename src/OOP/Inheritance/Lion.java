@@ -21,7 +21,5 @@ public class Lion extends WildAnimal{
 
     public void roar(){
         System.out.println("Lion is roaring");
-
     }
-
 }

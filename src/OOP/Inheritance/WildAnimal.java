@@ -21,6 +21,4 @@ public class WildAnimal extends Animal{
 
         return new Animal(); // it's returning an Animal object
     }
-
-
 }

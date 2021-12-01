@@ -6,6 +6,4 @@ public class DomesticAnimal extends Animal{
         System.out.println("Domestic animal is playing");
     return 5;
     }
-
-
 }

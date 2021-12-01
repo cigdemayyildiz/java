@@ -2,7 +2,6 @@ package OOP.Inheritance;
 
 public class Animal {
 
-
              /*
                 you can have single level Inheritance
                 you can have multi level of Inheritance
@@ -38,5 +37,4 @@ public class Animal {
     public void eat(){
         System.out.println("Animal is eating");
     }
-
 }
