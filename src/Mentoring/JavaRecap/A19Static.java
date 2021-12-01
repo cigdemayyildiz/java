@@ -14,5 +14,4 @@ public class A19Static {
     // Static variable makes the variables belong to the class
     // Static variable is sharable(changeable/common) for each object
     // Static variable can be accessed by other classes without creating an object
-
 }
