@@ -36,7 +36,5 @@ public class ArrayPractice2 {
             }
             System.out.println(reverse);
         }
-
-
     }
 }

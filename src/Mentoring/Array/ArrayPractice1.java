@@ -26,9 +26,5 @@ public class ArrayPractice1 {
             }
         }
         System.out.println(sumOfOdd-sumOfEven);
-
-
-
-
     }
 }
