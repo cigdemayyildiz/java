@@ -7,7 +7,6 @@ public class WhilePractice6 {
         // Summer ---> print out every single letter from this word
         // S, u, m, m, e, r
 
-
         String word = "Summer";
 
         int length = 0; /* eger tek tek Summer kelimesinin harflerini yazdirmak isteseydim charAt() kullanip
@@ -22,7 +21,6 @@ public class WhilePractice6 {
                                     kelimemin charAt() parantezinin icindeki degiskenim yardimi ile yazdir. println
                                     kullanirsan alt alta satirlara yazdiracagi icin print kullaniyorum ki ayni satirda olsun */
             length++; // degisken olan degeri kelimemin uzunluguna denk gelene kadar artir
-
         }
     }
 }

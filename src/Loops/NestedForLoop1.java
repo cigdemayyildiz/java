@@ -10,6 +10,5 @@ public class NestedForLoop1 {
             }
             System.out.println("**");
         }
-
     }
 }

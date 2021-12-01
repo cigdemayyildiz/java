@@ -27,7 +27,5 @@ public class HeadTailPractice {
             answer = input.next();
         }while (answer.equalsIgnoreCase("y"));
         System.out.println("It's OK, See you next time!");
-
-
     }
 }

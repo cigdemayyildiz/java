@@ -23,6 +23,5 @@ public class ForLoop {
             System.out.println("It is forth for LOOP " + numbers); // print edilmeyecek cunku numbers yukarda artirildi
                                                                     // ve guncel hali 5 den buyuk
         }
-
     }
 }

@@ -32,6 +32,5 @@ public class ForLoop4 {
         System.out.println("There are " + letterCount + " letters in the String");
         System.out.println("There are " + numberCount + " numbers in the String");
         System.out.println("There are " + otherCount + " chars in the String");
-
     }
 }

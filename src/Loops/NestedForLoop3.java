@@ -4,7 +4,6 @@ public class NestedForLoop3 {
 
     public static void main(String[] args) {
 
-
         for (int a = 0; a < 2; a++) {
             if (a==0){
                 continue; // am leri gormemek icin

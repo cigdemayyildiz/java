@@ -11,6 +11,5 @@ public class RandomPractice {
         int randomNumber = number.nextInt(2000); // parantez icindeki deger maksimum cikabilecegi degeri gosteriyor
 
         System.out.println(randomNumber);
-
     }
 }

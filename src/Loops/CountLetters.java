@@ -15,6 +15,5 @@ public class CountLetters {
             } index++;
         }
         System.out.println("There are " + count + " 'i' is in the given sentence.");
-
     }
 }

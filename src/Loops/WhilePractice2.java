@@ -3,7 +3,6 @@ package Loops;
 public class WhilePractice2 {
 
     public static void main(String[] args) {
-
         int age = 23;
         while (age<=26){
             System.out.println("I am here today");

@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class WhilePractice4 {
 
     public static void main(String[] args) {
-
         /*
         user has $100 in their account
         ask user "How much money they want to spend?"

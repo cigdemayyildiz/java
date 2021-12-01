@@ -30,6 +30,5 @@ public class DoWhilePractice {
         }while (num<=15); // num 15 den kucuk oldugu surece alttaki mesaji yazdir
         System.out.println("The total is: " + sum); // eger sout i do govdesinin icine koyarsan 5 ayri satirda islemleri sirasi
                                                     // ile gorursun, en sona yazarsan tek kalemde sonucu gorursun.
-
     }
 }

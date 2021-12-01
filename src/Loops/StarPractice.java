@@ -50,8 +50,6 @@ public class StarPractice {
             System.out.println(str);
             str+="*";
             num1++;
-
         }
-
     }
 }

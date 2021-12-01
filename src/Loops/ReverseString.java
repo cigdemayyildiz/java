@@ -12,6 +12,5 @@ public class ReverseString {
             System.out.println(store);
 
         }System.out.print(store);
-
     }
 }

@@ -14,7 +14,6 @@ public class ForLoop2 {
 
         for (; length<word.length(); length++){
             System.out.print(word.charAt(length) + ", ");
-
         }
 
         System.out.println("-");
@@ -31,13 +30,8 @@ public class ForLoop2 {
             if (string.charAt(i)=='o'){
                 System.out.println(string.charAt(i) + " - " + i); // i--> index number
                 count++;
-
             }
         }
         System.out.print("There are " + count + " letter 'o' in the String." );
-
-
-
-
     }
 }

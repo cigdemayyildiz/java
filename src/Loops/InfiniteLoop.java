@@ -8,6 +8,5 @@ public class InfiniteLoop {
             System.out.println("This is an infinite loop");
         }
         // System.out.println("This is after for loop"); // compile time error
-
     }
 }

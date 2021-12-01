@@ -27,8 +27,6 @@ public class ForLoop3 {
             8. create another sout in the for loop body to print the result
             9. and run the code and make sure if it works or not
              */
-
         }
-
     }
 }

@@ -3,7 +3,6 @@ package Loops;
 public class PalindromeWord {
 
     public static void main(String[] args) {
-
         String word = "Madam";
         String newWord = "";
 

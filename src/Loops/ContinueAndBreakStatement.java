@@ -9,7 +9,6 @@ public class ContinueAndBreakStatement {
         // when you have nested loop, you can have labels for the loops and you can refer to any loop you want to by using the label
         // condition for the If Statement will be check only ONCE, but condition for the For Loop will be checked after each iteration
 
-
         OUTER:
         for (int number=0; number<15; number++){
 
@@ -29,6 +28,5 @@ public class ContinueAndBreakStatement {
             }
             System.out.println();
         }
-
     }
 }

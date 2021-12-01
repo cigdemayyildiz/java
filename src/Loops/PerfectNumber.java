@@ -3,7 +3,6 @@ package Loops;
 public class PerfectNumber {
 
     public static void main(String[] args) {
-
         int number = 9;
         int sum = 0;
 
@@ -19,6 +18,5 @@ public class PerfectNumber {
         } else {
             System.out.println(number+" is not a perfect number.");
         }
-
     }
 }

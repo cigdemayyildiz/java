@@ -12,6 +12,5 @@ public class WhilePractice1 {
             System.out.println("I want to go home --> " + number);
             number++;
         }
-
     }
 }
