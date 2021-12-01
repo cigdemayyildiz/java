@@ -10,5 +10,4 @@ public class A17Polymorphism {
     // What is Dynamic and Static Polymorphism?
     // Dynamic Polymorphism occurs in a runtime --> overriding
     // Static Polymorphism occurs in compile time --> overloading
-
 }
