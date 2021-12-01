@@ -3,7 +3,6 @@ package Exception;
 public class Practice5 {
 
     public static void main(String[] args) throws Exception {
-
         int a = 15;
         int b = 10;
         if (a<b){

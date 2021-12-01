@@ -18,10 +18,5 @@ public class Practice4 {
             while (scanner.hasNextLine()) {
                 System.out.println(scanner.nextLine());
             }
-
-
-
-
-
     }
 }

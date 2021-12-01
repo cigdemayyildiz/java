@@ -45,13 +45,6 @@ public class Practice3 {
         }
         finally {
             System.out.println("This is finally block");
-
         }
-
-
-
-
-
-
     }
 }

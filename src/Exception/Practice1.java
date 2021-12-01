@@ -22,8 +22,5 @@ public class Practice1 {
         }
 
         System.out.println("This is my first print AFTER exception");
-
-
-
     }
 }
