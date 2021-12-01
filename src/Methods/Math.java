@@ -41,7 +41,6 @@ public class Math {
 
             default:
                 System.out.println("Operation name should be: add/subtract/divide/multiply/remainder");
-
         }
     }
 
@@ -65,9 +64,4 @@ public class Math {
                     // int x = total.sum1(1,3,6); --> buradaki x i 23 olarak gorursun ve
                     // System.out.println(x+25); --> bu islemin sonucu 23+25=48 cikar
     }
-
-
-
-
-
 }

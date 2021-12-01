@@ -23,7 +23,5 @@ public class CalculatorTest {
 
         System.out.println(Calculator.findSquare(2)); // 4
         System.out.println(calculatorObject.findSquare(2)); // 4
-
-
     }
 }

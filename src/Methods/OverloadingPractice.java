@@ -41,10 +41,5 @@ public class OverloadingPractice {
                                                                         // bir kere oradan gelir bir kere de buradan iki tane olur
 
         System.out.println(object.areaCalculator(3));
-
-
-
     }
-
-
 }

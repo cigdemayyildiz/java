@@ -8,9 +8,5 @@ public class StaticPracticePetTest {
         // class daysan o zaman methodun oldugu class name ile birlikte cagirmak zorundasin.
 
         StaticPracticePet.foodAmount=25; // value vermen gerekiyor
-
-
-
-
     }
 }

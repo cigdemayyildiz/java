@@ -34,10 +34,5 @@ public class Calculator {
         calculTest.findSquare(76l); // 76 nin sonundaki l harfini silersen int parametresi
         // olan static findSquare methoduna donuyor otomatik olarak, ama rakamlarin sonunda
         // l oldugu surece lon data type a sahip olan non-statik findSquare methoduna tabii
-
-
-
-
     }
-
 }

@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class TechtorialStudentTest {
 
     public static void main(String[] args) {
-
         TechtorialStudent student1 = new TechtorialStudent(); // This object is coming from TechtiralStudent class
         TechtorialStudent student2 = new TechtorialStudent(); //
         // Static variables are same for every objects

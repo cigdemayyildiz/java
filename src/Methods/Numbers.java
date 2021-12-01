@@ -81,7 +81,5 @@ public class Numbers {
 
         findDivision(20,3);
         Numbers.findDivision(30,4);
-
     }
-
 }

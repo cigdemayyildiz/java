@@ -10,7 +10,6 @@ public class BankAccount {
     String userName;
     String password;
 
-
     // create a method that will display all of the account information
     // create a method named as deposit, it will update the balance
     // create a method named as withdraw, it will update the balance

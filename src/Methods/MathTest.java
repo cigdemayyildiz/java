@@ -25,6 +25,5 @@ public class MathTest {
         // int w = total.sum(2,3)
         // void return type does not return any value,
         // that's why you cannot store the out come into any variable
-
     }
 }

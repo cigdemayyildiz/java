@@ -16,7 +16,6 @@ public class AgeCalculatorTest {
             System.out.println("You must be happy");
         }
 
-
 //        public String ageCalculator (String name, int birthYear){
 //
 //            int currentYear = 2021;

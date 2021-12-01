@@ -44,7 +44,5 @@ public class Student1 {
         // object ismi ile birlikte cagirdik.
 
         study(); // static bir methodu static baska bir methodun(main method static) icine object olusturmadan cagirabilirim
-
-
     }
 }

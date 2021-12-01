@@ -42,7 +42,6 @@ public class StaticPracticePet {
         System.out.println("Cat is running");
     }
 
-
     public static void main(String[] args) {
 
         StaticPracticePet cat = new StaticPracticePet();
@@ -65,8 +64,5 @@ public class StaticPracticePet {
 
         cat1.eat(); // Leftover food amount is: 18
         cat1.run();
-
-
     }
-
 }

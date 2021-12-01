@@ -42,7 +42,5 @@ public class Student {
         student1.sleep("in the livingroom");
         student1.run(student1.generateHour()); // burada yukarida olusturdugumuz random(generateHour) methodunu
                                               // object ismi ile birlikte cagirdik.
-
-
     }
 }

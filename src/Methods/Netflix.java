@@ -29,7 +29,5 @@ public class Netflix {
         Netflix user2 = new Netflix();
         user2.userName = "Cigdem";
         user2.usage(30);
-
-
     }
 }

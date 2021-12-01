@@ -20,6 +20,5 @@ public class BankAccountTest {
         System.out.println();
         myAccount.information();
         myAccount.deposit(300,3);
-
     }
 }

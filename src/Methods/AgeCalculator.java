@@ -24,7 +24,6 @@ public class AgeCalculator {
         return age;
     }
 
-
     // overload very first method by passing a String parameter
     // which is going to be name of the person
     // an print out the age of the person as:
@@ -36,7 +35,5 @@ public class AgeCalculator {
         int age = currentYear-birthYear;
         //System.out.println(name+" your age is: "+age);
         return ""+name+" your age is "+age;
-
     }
-
 }

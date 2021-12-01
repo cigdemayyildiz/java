@@ -23,5 +23,4 @@ public class TechtorialStudent {
     public void setStudentAge(int studentAge1){
         studentAge=studentAge1;
     }
-
 }
