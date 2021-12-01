@@ -9,6 +9,4 @@ public class A09ArrayList {
     // Array has only length final variable, ArrayList has methods and size(); method
     // Array can be multidimensional, ArrayList cannot be multidimensional
     // They have different syntax
-
-
 }
