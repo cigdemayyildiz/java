@@ -18,8 +18,5 @@ public class A14StringBuilder {
         String name = new String("ahmet");
         String name1 = "mehmet";
         StringBuilder stringBuilder = new StringBuilder("mehmet");
-
-
     }
-
 }
