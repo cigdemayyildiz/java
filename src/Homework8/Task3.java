@@ -22,6 +22,5 @@ public class Task3 {
             System.out.println(givenNumber + " is Not an Armstrong number");
         }
         System.out.println();
-
     }
 }

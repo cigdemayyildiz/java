@@ -18,6 +18,5 @@ public class Task1 {
             j=(j*10)+1;
         }
         System.out.println("The sum is: " + sum); // The sum is: 12345
-
     }
 }

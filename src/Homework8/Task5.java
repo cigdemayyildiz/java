@@ -22,6 +22,5 @@ public class Task5 {
             System.out.print(num%10);
         }
         System.out.println();
-
     }
 }

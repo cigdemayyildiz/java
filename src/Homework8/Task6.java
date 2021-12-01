@@ -15,7 +15,5 @@ public class Task6 {
             System.out.println(newWord+" is not a palindrome");
         }
         System.out.println();
-
-
     }
 }
