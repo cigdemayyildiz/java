@@ -22,7 +22,6 @@ public class A06Array {
         }
         System.out.println(sum);
 
-
         // print out each of the word and reverse them
         String name = "Hi guys how are you";
         String result = " ";
@@ -41,9 +40,5 @@ public class A06Array {
             }
             System.out.print(reverse + " ");
         }
-
-
-
-
     }
 }
