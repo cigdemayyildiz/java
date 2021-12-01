@@ -25,8 +25,5 @@ public class Practice2 {
                                                 : "Other TV prices are starting from $599";
         System.out.println(answer);
 
-
     }
-
-
 }
