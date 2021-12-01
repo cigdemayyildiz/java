@@ -36,7 +36,6 @@ public class Flower {
     }
 
     // create few flower objects and store them in an ArrayList
-
     public static void main(String[] args) {
 
         ArrayList<Flower> flowers = new ArrayList(); // arraylist olusturabilmek icin object e ihtiyac var,
@@ -58,7 +57,5 @@ public class Flower {
         // this method will return total prices of the flowers
 
         System.out.println(totalPrice(flowers)); // 14.97
-
     }
-
 }

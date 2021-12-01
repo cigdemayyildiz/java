@@ -25,6 +25,5 @@ public class ComputerStore {
             comp1.price(computer); // you can call static method with help of object
             System.out.println();
             comp1.priceList(computer); // you can call non-static method with help of object
-
     }
 }

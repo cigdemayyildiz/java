@@ -13,7 +13,6 @@ public class Computer {
                      HP         Envy            1100        15.0
                      Lenovo     ThinkPad        900         11
      */
-
     String make;
     String model;
     double price;

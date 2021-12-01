@@ -29,7 +29,5 @@ public class ArrayListToArray {
 //        System.out.println(list1); // UnsupportedOperationException
         list1.set(1,100); // ekleme cikarma yapamiyorsun ama degistirme yapabiliyorsun, sadece size ile oynayamiyorsun
         System.out.println(list1); // [1, 100, 3, 4]
-
-
     }
 }

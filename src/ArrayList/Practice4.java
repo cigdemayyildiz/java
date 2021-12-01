@@ -29,7 +29,5 @@ public class Practice4 {
 
         // List<Integer> list7 = new List<Integer>(); --> you cannot create an object from interface which is List
 
-
     }
-
 }

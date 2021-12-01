@@ -12,7 +12,6 @@ public class ArrayToArrayList {
         String [] str = {"Yes", "no"};
 
         // How to convert Array to ArrayList
-
         List<String> strn = Arrays.asList(str);
         List<Object> list = Arrays.asList(obj);
 
@@ -24,9 +23,5 @@ public class ArrayToArrayList {
         //System.out.println(list); // UnsupportedOperationException
         //list.remove("yes"); // cikarma yaptiginda da hata verecek cunku size i degistirmeye calisiyorsun.
         //System.out.println(list); // UnsupportedOperationException
-
-
-
-
     }
 }

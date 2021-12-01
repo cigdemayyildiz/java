@@ -25,6 +25,5 @@ public class Practice2 {
         for (String color:colors) {
             System.out.println("This is from for each loop --> "+color);
         }
-
     }
 }

@@ -46,7 +46,5 @@ public class Practice3 {
         // eger method static olmasaydi o zaman object e gerek olacakti
         Practice3 object = new Practice3();
         object.printFruits(fruitNames);
-
-
     }
 }
