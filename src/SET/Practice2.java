@@ -125,7 +125,5 @@ public class Practice2 {
         list.add("tomato");
         System.out.println("After adding tomato once again: "+list); // After adding tomato once again: [tomato, lettuce, carrot, tomato]
         System.out.println(list.get(2)); // carrot
-
-
     }
 }

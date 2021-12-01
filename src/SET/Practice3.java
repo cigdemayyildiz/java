@@ -40,7 +40,5 @@ public class Practice3 {
         // set icinde black oldugu icin o yazdirildi. white kontrol edildi ve set icinde oldugu icin o da es gecildi.
         // ikinci red kontrol edildi ve set icinde bir tane red oldugu icin o da yazdirildi. son olarak orange kontrol
         // edildi set icinde oldugu icin o da elendi ve list icin black ve red elementleri kaldigi icin onlar yazildi.
-
-
     }
 }

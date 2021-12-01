@@ -30,7 +30,6 @@ public class Practice1 {
 
         Set <String> set6 = new HashSet<String>();
 
-
         set1.add("Chicago");
         set1.add("Dallas");
         set1.add("Columbus");
@@ -75,6 +74,5 @@ public class Practice1 {
 
         set1.clear();
         System.out.println(set1); // []
-
     }
 }
