@@ -33,6 +33,5 @@ public class Task2 {
 
         int number = 15%4;
         System.out.println(number);
-
     }
 }

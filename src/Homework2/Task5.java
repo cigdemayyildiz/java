@@ -26,6 +26,5 @@ public class Task5 {
         System.out.println(number2 + " x " + number10 + " = " + (number2*number10));
         System.out.println(number2 + " x " + number11 + " = " + (number2*number11));
         System.out.println(number2 + " x " + number12 + " = " + (number2*number12));
-
     }
 }

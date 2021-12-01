@@ -12,6 +12,5 @@ public class Task3 {
         System.out.println(firstNumber + " x " + secondNumber + " = " + (firstNumber*secondNumber)); // 125 x 24 = 3000
         System.out.println(firstNumber + " / " + secondNumber + " = " + (firstNumber/secondNumber)); // 125 / 24 = 5
         System.out.println(firstNumber + " mod " + secondNumber + " = " + (firstNumber%secondNumber)); // 125 mod 24 = 5
-
     }
 }
