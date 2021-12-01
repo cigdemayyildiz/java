@@ -36,7 +36,6 @@ public class NestedIfPractice {
         }
         else {
             System.out.println("Please come to Chicago");
-
         }
     }
 }

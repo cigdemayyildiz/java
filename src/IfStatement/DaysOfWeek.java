@@ -13,7 +13,6 @@ public class DaysOfWeek {
         .....
         7 --> it is sunday
          */
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter a number between 1 to 7");
         int number = scanner.nextInt();

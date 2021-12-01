@@ -60,6 +60,5 @@ public class CurlyBracket {
          2- ikinci if statement if satirinin altindaki satir isleme alinmaz sonraki satirlar isleme alinir ve
          islemler sonundaki sout print edilir.
         */
-
     }
 }

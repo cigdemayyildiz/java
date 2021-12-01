@@ -33,6 +33,5 @@ public class ElseIfPractice {
         else {
             System.out.println("Your number is out of range");
         }
-
     }
 }

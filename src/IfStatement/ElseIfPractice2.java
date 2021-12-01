@@ -71,6 +71,5 @@ public class ElseIfPractice2 {
         else if (averageAll >=0 && averageAll < 60){
             System.out.println("You need to take this course again!!");
         }
-
     }
 }

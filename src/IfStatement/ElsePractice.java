@@ -4,10 +4,8 @@ public class ElsePractice {
 
     public static void main(String[] args) {
 
-
         // if you have more than one if condition you cannot use the else statement
         // if you have only one if condition you can use the else statement
-
 
         /*
         if your payment $100 or more you will get %20 discount
@@ -25,9 +23,7 @@ public class ElsePractice {
             System.out.println("Your are going to pay after %5 off: $" + (payment - fivePercent));
         }
 
-
         // other way
-
         if (payment>=100){
             payment -= payment * 0.20;
             System.out.println("Your are going to pay after %20 off: $" + (payment));

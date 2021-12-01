@@ -25,6 +25,5 @@ public class DaysOfWeek1 {
         if (letterOfDay.toLowerCase().contains("s")){
             System.out.println("It is Saturday or Sunday");
         }
-
     }
 }

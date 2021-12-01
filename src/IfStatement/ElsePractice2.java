@@ -11,7 +11,6 @@ public class ElsePractice2 {
         if the number is even number --> print "your number is an even number"
         otherwise --> "your number is an odd number"
          */
-
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter an integer value");
         int number = input.nextInt();
@@ -22,7 +21,5 @@ public class ElsePractice2 {
         else {
             System.out.println("Your number is an odd number " + number);
         }
-
-
     }
 }

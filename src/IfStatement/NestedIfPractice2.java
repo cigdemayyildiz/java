@@ -49,8 +49,5 @@ public class NestedIfPractice2 {
         }
         else
             System.out.println("Please learn Java and come back");
-
-
-
     }
 }
