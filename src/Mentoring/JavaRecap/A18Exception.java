@@ -12,6 +12,4 @@ public class A18Exception {
     // What is the difference between error and exception?
     // You cannot handle the error (error comes from system)
     // You can handle exceptions (exception comes from application)
-
-
 }
