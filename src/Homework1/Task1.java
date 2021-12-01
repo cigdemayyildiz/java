@@ -11,6 +11,5 @@ public class Task1 {
 
         System.out.println(minutes + " minutes is approximately " + years + " years and " + days%365 + " days.");
         // 3456789 minutes is approximately 6 years and 210 days.
-
     }
 }
