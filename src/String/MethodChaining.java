@@ -21,6 +21,5 @@ public class MethodChaining {
         // charAt karakter sonucu verdigi icin char icinde store etmelisin
         // eger charAt metodunu zincir icinde kullandiysan o zaman String ya da int icine store edemezsin cunku char karakter sonucu verir
         System.out.println(result1); // J
-
     }
 }

@@ -74,7 +74,5 @@ public class StringBasics {
         System.out.println(str); // Java is very easy.
         str = str.toUpperCase(); // reassign
         System.out.println(str); // JAVA IS VERY EASY.
-
-
     }
 }

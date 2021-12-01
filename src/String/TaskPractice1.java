@@ -41,6 +41,5 @@ public class TaskPractice1 {
         // find and print out middle char's index number
         int middleChar = string.indexOf(string.charAt((string.length()-1)/2));
         System.out.println(middleChar);
-
     }
 }

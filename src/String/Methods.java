@@ -6,10 +6,8 @@ public class Methods {
 
     public static void main(String[] args) {
 
-
         // .concat()
         // it will take String value and add it to the initial String that you have
-
         String city = "Chicago";
         city.concat(" is very cold.");
         System.out.println(city); // Chicago --> String is immutable which means original value will not change unless you reassign it or create a new String variable.
@@ -21,7 +19,6 @@ public class Methods {
 
         // .length(); --> it returns int
         // it will give you the count of letters/characters in given String
-
         int length = newCity.length();
         System.out.println(length); // 33
 
@@ -34,7 +31,6 @@ public class Methods {
 
         // .charAt();
         // it will take an index number and return a character from that index/position
-
         String str = "Java";
         char ch = str.charAt(0);
         System.out.println(ch); // J
@@ -54,7 +50,6 @@ public class Methods {
 
         // .indexOf(); --> it returns int
         // it will take parameter as char or char sequence and it will return index number for it
-
         String name = "Diana";
         int index = name.indexOf('D');
         int index2 = name.indexOf("D");
@@ -105,7 +100,6 @@ public class Methods {
 
         // .toUpperCase();
         // it will convert all String to upper case
-
         String string = "Selenium";
         string = string.toUpperCase();
         System.out.println(string); // SELENIUM
@@ -113,7 +107,6 @@ public class Methods {
 
         // .toLowerCase();
         // it will convert all String to lower case
-
         string.toLowerCase();
         System.out.println(string); // SELENIUM --> bir ust satirdaki islemi kayda almadi reassign edilmedigi icin
         System.out.println(string.toLowerCase()); // selenium --> sout icinde metodu yazinca ayrica disarda reassign etmeye gerek yok
@@ -134,7 +127,6 @@ public class Methods {
         // .startsWith();  --> returns boolean
         // it will take String parameter and if the provided String matches with the beginning of the value,
         // it will return true, otherwise false.
-
         String word1 = "do whatever it takes";
         System.out.println(word1.startsWith("do")); // true
         boolean result = word1.startsWith("what"); // store etmek istersen boolean a store etmen gerekir
@@ -145,7 +137,6 @@ public class Methods {
 
 
         // .endsWith(); --> returns boolean
-
         word1.endsWith("s");
         System.out.println(word1.endsWith("s")); // true
         boolean result1 = word1.endsWith("do");
@@ -157,7 +148,6 @@ public class Methods {
 
         // .contains(); --> returns boolean
         // it will take String parameter and if the value is in the given String it will return true otherwise false
-
         String text = "Techtorial";
         boolean result2 = text.contains("Tech");
         System.out.println(result2); // true
@@ -177,7 +167,6 @@ public class Methods {
 
         // .equals(); --> returns boolean
         // it will compare String values with each other, if they are exactly in some order or not
-
         String c = "John";
         String d = "John";
         String e = "JOHN";
@@ -198,7 +187,6 @@ public class Methods {
 
         // .replace();
         // it will replace original value with new one
-
         String str1 = "Java is cool";
         str1 = str1.replace("o", "$");
         System.out.println(str1); // Java is c$$l
@@ -219,7 +207,6 @@ public class Methods {
 
         // .trim();
         // it will remove the spaces before and after of the String not between spaces
-
         String text2 = "    It is Saturday    ";
         System.out.println(text2); //     It is Saturday
         text2 = text2.trim();
@@ -270,6 +257,5 @@ public class Methods {
         // when your String value doesn't have enough value to take substring, it will throw an exception (StringOutOfBoundException)
 
         System.out.println("This is all about String methods"); // you cannot see this print because of the exception on the above line
-
     }
 }

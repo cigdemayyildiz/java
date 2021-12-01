@@ -53,7 +53,5 @@ public class EqualsMethod {
         System.out.println(e == f); // false
         // e a ya esit olduguna gore ve a bir isim oldugu icin ve f c ye esit olduguna gore ve c bir kisi oldugu icin
         // e ve f birbirine esit degildir
-
-
     }
 }

@@ -24,9 +24,5 @@ public class TaskPractice {
         System.out.println(word.indexOf("c", 0)); // 3
         System.out.println(word.length()); // 7
         System.out.println(word.indexOf("x")); // -1
-
-
-
-
     }
 }
