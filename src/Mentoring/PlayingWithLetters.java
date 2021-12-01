@@ -27,9 +27,5 @@ public class PlayingWithLetters {
         lastLetter+=word.charAt(word.length()-1);
         System.out.println(firstLetter);
         System.out.println(lastLetter);
-
-
-
-
     }
 }
