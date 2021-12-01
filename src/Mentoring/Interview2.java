@@ -49,8 +49,6 @@ public class Interview2 {
         String[] logs = new String[]{"A:1", "C:2", "B:3", "A:3", "C:1", "A:2", "A:1", "B:2", "B:3", "C:2"};
 
         findInputs(logs);
-
-
     }
 }
 
