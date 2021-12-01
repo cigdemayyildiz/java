@@ -26,7 +26,6 @@ public class JavaBook_Static extends Book{
     }
 
 
-
     public static void main(String[] args) {
 
         Book book = new Book("Blue Book", 19.99,500);
@@ -56,14 +55,5 @@ public class JavaBook_Static extends Book{
         JavaBook_Static.listen();
 
         listen();
-
-
-
-
-
     }
-
-
-
-
 }

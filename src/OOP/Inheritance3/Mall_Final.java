@@ -30,7 +30,5 @@ public class Mall_Final {
         System.out.println(tShirt1.COLOR); // bu COLOR Shirt sinifindan geliyor
 
         System.out.println(tShirt1.color); // tShirt1 icin color tanimlamadigimiz icin null
-
     }
-
 }

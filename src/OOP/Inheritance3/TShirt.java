@@ -13,5 +13,4 @@ final public class TShirt extends Shirt{ // TShirt class is final class
 //        return "This is info about T-Shirt";
 //
 //    }
-
 }

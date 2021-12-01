@@ -21,8 +21,4 @@ public class Shirt {
     final public String info(Boolean clean){
         return "This shirt is clean";
     }
-
-
-
-
 }

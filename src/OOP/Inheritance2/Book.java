@@ -6,7 +6,6 @@ public class Book {
     double price;
     static int pageNumber = 404;
 
-
     public void info(){
         System.out.println(title+"---"+price+"----"+pageNumber);
     }
