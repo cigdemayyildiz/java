@@ -21,7 +21,6 @@ public class A04Loops {
             y--;
         }while (y>x);
 
-
         int choice;
         do {
             Scanner scanner = new Scanner(System.in);
@@ -94,10 +93,5 @@ public class A04Loops {
             }
         }
         System.out.println(result);
-
-
-
-
-
     }
 }
