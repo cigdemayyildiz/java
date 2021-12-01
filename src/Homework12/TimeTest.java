@@ -72,6 +72,5 @@ public class TimeTest {
             }
             System.out.println("Do you want to start again? Y/N");
         }while (input.next().equalsIgnoreCase("Y"));
-
     }
 }

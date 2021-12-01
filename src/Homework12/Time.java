@@ -137,7 +137,6 @@ public class Time {
     }
 
 
-
     public void getInstructions(int input) {
         switch (input){
             case 9:
@@ -153,6 +152,4 @@ public class Time {
                 System.out.println("Press 9 to Exit");
         }
     }
-
-
 }
