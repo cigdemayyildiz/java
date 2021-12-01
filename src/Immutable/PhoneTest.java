@@ -14,8 +14,5 @@ public class PhoneTest {
         System.out.println(phone2.getBrand());
 
         Phone phone3 = new Phone();
-
-
-
     }
 }

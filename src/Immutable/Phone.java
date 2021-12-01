@@ -30,5 +30,4 @@ public class Phone {
     private void call(){ // private yapinca bu siniftan baska hicbir yerden ulasilamaz oluyor.
         System.out.println("Calling friend...");
     }
-
 }
