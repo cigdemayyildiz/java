@@ -12,13 +12,10 @@ public class Task2 {
         System.out.print(set.descendingSet());
     }
 
-
     public static void main(String[] args) {
 
         int [] array = {2,3,4,4,7,2,1};
         Task2 task2 = new Task2();
         task2.descending(array);
-
     }
-
 }

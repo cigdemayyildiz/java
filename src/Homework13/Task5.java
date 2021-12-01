@@ -23,7 +23,5 @@ public class Task5 {
         Task5 task5 = new Task5();
         String[] array = {"java", "phyton", "javascript", "c++", "java", "c++"};
         task5.descendingString(array);
-
-
     }
 }

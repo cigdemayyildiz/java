@@ -15,6 +15,5 @@ public class Task3 {
         Task3 task3 = new Task3();
         String[] array = {"java", "phyton", "javascript", "c++", "java", "c++"};
         task3.howManyUnique(array);
-
     }
 }
