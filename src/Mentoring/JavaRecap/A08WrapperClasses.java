@@ -9,6 +9,4 @@ public class A08WrapperClasses {
     // There is two types of it.
     // Autoboxing: it converts data Primitive data to object --> int a = 5; Integer i = new Integer(a);
     // Unboxing: it converts object to primitive data --> Integer a = (int) 5; // casting
-
-
 }
