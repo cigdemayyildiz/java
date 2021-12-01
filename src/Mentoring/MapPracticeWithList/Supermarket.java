@@ -18,7 +18,6 @@ public class Supermarket {
         supermarket.cookiesNameAndPrice();
         supermarket.allProductNameAndPrice();
         supermarket.nameOfItem();
-
     }
 
     //LETS DO IT STEP BY STEP:
@@ -161,5 +160,4 @@ public class Supermarket {
     }
 
     // Create a method with the parameter String nameOfItem and replace it from the map
-
 }
