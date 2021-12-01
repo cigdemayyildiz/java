@@ -13,5 +13,4 @@ public class Tulip extends Flower{
     public Tulip(String color){
         super.color = color;
     }
-
 }

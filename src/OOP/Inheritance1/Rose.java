@@ -11,8 +11,4 @@ public class Rose extends Flower {
         this.color = color;
         super.color = "Blue";
     }
-
-
-
-
 }

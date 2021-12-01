@@ -5,8 +5,4 @@ public class Peony extends Tulip{
     public Peony(){
         super("yellow");
     }
-
-
-
-
 }

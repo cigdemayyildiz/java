@@ -32,7 +32,5 @@ public class Store {
         System.out.println(tulip2.name);
         System.out.println(tulip2.color);
         System.out.println(tulip2.height);
-
-
     }
 }

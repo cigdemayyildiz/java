@@ -6,7 +6,6 @@ public class Flower {
     double height;
 
     public Flower(){
-
     }
 
     public Flower(String name, String color, double height){
@@ -14,8 +13,4 @@ public class Flower {
         this.color = color;
         this.height = height;
     }
-
-
-
-
 }
