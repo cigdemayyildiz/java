@@ -7,6 +7,5 @@ public class Practice1 {
         int redApple = 11;
 
         System.out.println("I have " + redApple + " red apples.");
-
     }
 }

@@ -20,8 +20,5 @@ public class MultipleData {
         // int k=1, byte r=2, short m=3; // it is not ok because they are different data types
 
         int k=1; byte r=2; short m=3; // it is ok because using semicolon
-
-
-
     }
 }

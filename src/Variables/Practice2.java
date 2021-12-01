@@ -17,7 +17,5 @@ public class Practice2 {
         //
 
         System.out.println("The total number of apples and kiwis is " + (apples+kiwi) + " and difference between kiwis and oranges is " + (kiwi-oranges) + ".");
-
-
     }
 }

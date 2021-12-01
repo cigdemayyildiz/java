@@ -19,7 +19,5 @@ public class Practice4 {
 
         System.out.println("Total number of legs of the animals in this farm: " + totalLegs + ".");
         System.out.println("Total cost of animals in this farm: $" + totalCost + ".");
-
-
     }
 }

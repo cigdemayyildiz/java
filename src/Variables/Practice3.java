@@ -41,8 +41,5 @@ public class Practice3 {
         int payment = totalApplePrices+totalBananaPrices;
 
         System.out.println("Your total payment is $" + payment + ".");
-
-
-
     }
 }
