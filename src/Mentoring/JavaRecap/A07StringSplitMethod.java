@@ -18,7 +18,5 @@ public class A07StringSplitMethod {
         for (String sp : split){
             System.out.print(sp.length() +"="+ sp+ " ");
         }
-
-
     }
 }
