@@ -13,6 +13,5 @@ public class Task2 {
         if (anyValue.contains("red")){
             System.out.println("red");
         }
-
     }
 }

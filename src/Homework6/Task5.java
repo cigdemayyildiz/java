@@ -15,6 +15,5 @@ public class Task5 {
         }else {
             System.out.println(year + " is NOT a leap year");
         }
-
     }
 }

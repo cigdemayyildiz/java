@@ -13,6 +13,5 @@ public class Task3 {
         if (str2.charAt(1)=='x'){
             System.out.println(str2.substring(0,1).concat(str2.substring(2))); // Hi
         }
-
     }
 }

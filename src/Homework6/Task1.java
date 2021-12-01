@@ -7,7 +7,6 @@ public class Task1 {
     public static void main(String[] args) {
 
         // TASK-1 -- Example 1
-
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter first String value");
         String firstWord = input.nextLine(); // Cell
@@ -43,6 +42,5 @@ public class Task1 {
         } else if (word2.length()>word1.length()){
             System.out.println(word1+word2.substring(0, word1.length())); // null
         }
-
     }
 }

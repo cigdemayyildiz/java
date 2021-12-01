@@ -14,6 +14,5 @@ public class Task4 {
             System.out.println(str4.substring(2)); // null
         }
         System.out.println("***");
-
     }
 }
