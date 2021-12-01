@@ -33,9 +33,5 @@ public class LinkedListPractice {
 
         System.out.println(list.element());
         System.out.println(list.element());
-
-
-
     }
-
 }
