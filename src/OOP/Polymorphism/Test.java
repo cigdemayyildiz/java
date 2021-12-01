@@ -50,10 +50,5 @@ public class Test {
 
 //        Bank bank2 = (Bank) new Branch();
 //        bank2.hire();
-
-
-
-
-
     }
 }

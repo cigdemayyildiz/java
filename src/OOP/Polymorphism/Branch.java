@@ -13,6 +13,4 @@ public class Branch extends ATM{
     public void assistance(){
         System.out.println("BRANCH is helping");
     }
-
-
 }

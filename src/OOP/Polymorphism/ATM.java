@@ -32,5 +32,4 @@ public class ATM {
     public void balance(){
         System.out.println("You're showing your balance from ATM");
     }
-
 }

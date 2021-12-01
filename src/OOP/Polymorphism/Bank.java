@@ -13,6 +13,4 @@ public class Bank extends Branch{
     public void openAccount(){
         System.out.println("BANK can open Business Account");
     }
-
-
 }
