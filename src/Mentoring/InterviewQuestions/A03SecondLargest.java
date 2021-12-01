@@ -11,7 +11,6 @@ public class A03SecondLargest {
         Arrays.sort(array); // [-1, 0, 12, 12, 13, 15]
         System.out.println(array[array.length-2]); // 13
 
-
         // Interview Solution
         int[] array1 = {100,300,200,450,350};
         int largest = array1[0];

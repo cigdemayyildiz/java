@@ -25,9 +25,5 @@ public class A02Swap {
         x = x.substring(y.length()); // Techtorial
         System.out.println("x="+x);
         System.out.println("y="+y);
-
-
-
-
     }
 }

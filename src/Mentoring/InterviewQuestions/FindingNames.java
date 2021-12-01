@@ -45,6 +45,5 @@ public class FindingNames {
 //        System.out.println(Arrays.toString(word));
 //        System.out.println(countApply);
 //        System.out.println(countRights);
-
     }
 }

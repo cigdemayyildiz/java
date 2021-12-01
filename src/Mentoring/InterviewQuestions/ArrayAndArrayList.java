@@ -19,9 +19,6 @@ public class ArrayAndArrayList {
 
                   Primitive data doesn't have methods
                   Objects have methods
-
-
-
      */
 
     public static void main(String[] args) {
@@ -50,7 +47,6 @@ public class ArrayAndArrayList {
         // write a java program to search an element in ArrayList
 
         nameSearch(name,"Ahmet");
-
     }
     // first key point: I have to access each of the element by using loop
     // I have to get the element from the list and compare it
@@ -64,6 +60,5 @@ public class ArrayAndArrayList {
                 System.out.println("Your name is not there");
             }
         }
-
     }
 }

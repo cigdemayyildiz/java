@@ -7,7 +7,6 @@ public class SwitchingWord {
     public static void main(String[] args) {
 
         // switch the pairs
-
         String[] array={"four", "flowers", "sun", "eleven", "cloud", "better", "git"};
 
         for (int i = 0; i < array.length-1; i++) {
@@ -25,10 +24,7 @@ public class SwitchingWord {
             String temp = array3[i];
             array3[i]=array3[i+1];
             array3[i+1]=temp;
-
         }
         System.out.println(Arrays.toString(array3));
-
-
     }
 }

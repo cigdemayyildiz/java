@@ -13,7 +13,5 @@ public class A07Palindrome {
         }else {
             System.out.println(reversed+" is NOT Palindrome");
         }
-
-
     }
 }

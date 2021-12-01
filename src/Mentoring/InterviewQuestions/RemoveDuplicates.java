@@ -6,7 +6,6 @@ public class RemoveDuplicates {
 
     public static void main(String[] args) {
 
-
         // How can you remove all duplicates from ArrayList?
         List<String> aList = Arrays.asList("John", "Jane", "James", "Jasmine", "Jane", "James");
         Set<String> set = new HashSet<>(aList);
@@ -19,6 +18,5 @@ public class RemoveDuplicates {
             set1.add(name);
         }
         System.out.println(set1);
-
     }
 }

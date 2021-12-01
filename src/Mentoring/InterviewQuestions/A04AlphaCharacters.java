@@ -39,10 +39,5 @@ public class A04AlphaCharacters {
         // Second way to find digit characters and how many digits are there
         System.out.println(given.replaceAll("[^0-9]","")); // 6758549887324843755
         System.out.println(given.replaceAll("[^0-9]","").length()); // 19
-
-
-
-
-
     }
 }
