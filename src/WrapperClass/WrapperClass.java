@@ -4,7 +4,6 @@ public class WrapperClass {
 
     public static void main(String[] args) {
 
-
         /*
         Converting from a String
 
@@ -95,15 +94,5 @@ public class WrapperClass {
 
         double db2 = db1; // unboxing --> db2 is a primitive data and db1 is an object
         System.out.println(db2);
-
-
-
-
-
-
-
-
-
-
     }
 }

@@ -24,7 +24,6 @@ public class StringToPrimitives {
         long l = Long.parseLong(str1);
         System.out.println(l); // 123
 
-
         String str2 = "true";
 
         boolean b = Boolean.parseBoolean(str2);
@@ -36,10 +35,8 @@ public class StringToPrimitives {
         boolean b2 = Boolean.parseBoolean("false");
         System.out.println(b2); // false
 
-
         String str3 = "A";
         // Character.parseCharacter(str3) // String cannot be convert to char, there is no parse method for Character
-
 
         int n = 8;
         System.out.println(n+2); // 10 --> 8 ile 2 yi topluyor cunku 8 de integer 2 de
@@ -49,11 +46,5 @@ public class StringToPrimitives {
         double db = 2.5;
         System.out.println(db + 2); // 4.5
         System.out.println(Double.toString(db)+2); // 2.52
-
-
-
-
-
     }
-
 }

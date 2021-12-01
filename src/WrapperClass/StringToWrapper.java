@@ -30,6 +30,5 @@ public class StringToWrapper {
 
         String str4 = "c";
         // Character ch1 = Character.valueOf(str4); --> compile time error, you cannot convert String value to Character
-
     }
 }
