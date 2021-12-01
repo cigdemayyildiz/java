@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class GetTheDigitAndSum {
 
     public static void main(String[] args) {
-
         /*
         1. Write a program that will accept number
         numbers like 578432 and find  multiplication
