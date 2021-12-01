@@ -14,6 +14,5 @@ public class CityTest {
 
         city.setEstablishmentYear(1967);
         System.out.println(city.getEstablishmentYear());
-
     }
 }

@@ -14,7 +14,6 @@ public class City {
     private String name;
     private int population, establishmentYear;
 
-
     public String getName() {
         return name;
     }
@@ -38,8 +37,6 @@ public class City {
     public void setEstablishmentYear(int year){
         this.establishmentYear = year;
     }
-
-
 }
 
 
