@@ -22,6 +22,5 @@ public class Task5 {
 
         System.out.println(firstDigit + " " + secondDigit + " " + thirdDigit + " " + forthDigit + " " + lastDigit);
         // 1 2 3 4 5
-
     }
 }
