@@ -45,6 +45,5 @@ public class Animal {
         a.name = "Max";
         a.color = "White";
         a.eat();
-
     }
 }
