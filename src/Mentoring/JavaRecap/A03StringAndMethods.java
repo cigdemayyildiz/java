@@ -19,9 +19,6 @@ public class A03StringAndMethods {
     // concat(); --> it returns String
     // trim(); --> it returns String without any spaces before and after
 
-
-
-
     public static void main(String[] args) {
         String example = "Ahmet loves Java";
         example = example.substring(1);
@@ -40,12 +37,5 @@ public class A03StringAndMethods {
 
         example=example.replace('e','$');
         System.out.println(example); // m$t lov$
-
-
-
-
-
-
-
     }
 }
