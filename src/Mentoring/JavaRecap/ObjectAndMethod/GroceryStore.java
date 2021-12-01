@@ -29,6 +29,4 @@ public class GroceryStore {
         System.out.println("The gross revenue of "+name+" $"+grossRevenue);
         return grossRevenue;
     }
-
-
 }

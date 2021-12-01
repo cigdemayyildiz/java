@@ -41,7 +41,5 @@ public class GroceryStoreTest {
         double value = houstonStore.grossRevenue1("Houston");
         double value1 = seattleStore.grossRevenue1("Seattle");
         System.out.println(1+2+value);
-
-
     }
 }

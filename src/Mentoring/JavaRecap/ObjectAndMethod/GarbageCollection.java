@@ -16,5 +16,4 @@ public class GarbageCollection {
     // You can only call 1 time
     // System.gc(); it is automatically doing it already, you don't need to call it but sometimes we want to see
     // if useless data is delete or not.
-
 }

@@ -25,7 +25,6 @@ public class A01ObjectMethod {
     houstonStore
     seattleStore
 
-
     //TASK 2
     Add additional code to the last exercise dealing with the groceryStore class
     Store values into the instance variables as follows:
@@ -51,7 +50,6 @@ public class A01ObjectMethod {
 
     Oranges sold-429
     Orange retail cost - $0.87
-
 
     **TASK 3:
     Calculate the gross revenue of the All stores

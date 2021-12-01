@@ -22,6 +22,4 @@ public class Constructor {
     // super(); --> is a method to call the constructor which belong to the PARENT CLASS
     //  ** super(); must be at the first line of the chaining constructor of parent
     // super(); goes close one
-
-
 }
