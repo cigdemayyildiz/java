@@ -17,7 +17,7 @@ public class Practice {
     int number;
     static int id;
 
-// ikisi de object olusturuldugunda baska bir seye ihtiyac duymadan calisiyor
+    // ikisi de object olusturuldugunda baska bir seye ihtiyac duymadan calisiyor
     {
         number = 10;
         System.out.println("Instance block");
@@ -27,8 +27,4 @@ public class Practice {
         id = 25;
         System.out.println("Static block");
     }
-
-
-
-
 }

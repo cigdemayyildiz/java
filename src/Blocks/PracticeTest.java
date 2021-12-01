@@ -23,7 +23,5 @@ public class PracticeTest {
         System.out.println(obj4.number);
 
         System.out.println(obj1.id);
-
-
     }
 }
