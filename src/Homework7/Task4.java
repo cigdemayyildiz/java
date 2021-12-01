@@ -15,6 +15,5 @@ public class Task4 {
             str+="a";
             System.out.println(str+value.substring(k));
         }
-
     }
 }

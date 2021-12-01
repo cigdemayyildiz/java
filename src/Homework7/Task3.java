@@ -12,8 +12,6 @@ public class Task3 {
 
         if (random.charAt((random.length()/2)+1) == 'd' && random.charAt((random.length()/2)-1) == 'd') {
             System.out.println("dad");
-
         }
-
     }
 }

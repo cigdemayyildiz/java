@@ -19,6 +19,5 @@ public class Task5 {
         }
         System.out.println("You need " + currentSpeed/sec + " sec to reach target speed.");
         // You need 2 sec to reach target speed.
-
     }
 }

@@ -17,6 +17,5 @@ public class Task6 {
             System.out.println("There are " + (numberOfEggs) + " eggs left.");
 
         }System.out.println("You have eaten all the eggs.");
-
     }
 }
