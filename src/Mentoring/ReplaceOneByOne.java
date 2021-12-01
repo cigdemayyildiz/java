@@ -8,7 +8,6 @@ public class ReplaceOneByOne {
     Ask user to input some words and sout the reverse of the words.
 
 
-
     ===========================================Question 2==========================================
     Given a string change the each character with x in orderly.
     Word=Unsuccessful
