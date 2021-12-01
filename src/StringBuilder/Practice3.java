@@ -10,7 +10,6 @@ public class Practice3 {
         // this method will replace middle chars of each word with '$' if the word has odd number of letters
         // it will print out those words with their new versions
 
-
         StringBuilder [] builders = {new StringBuilder("David"),new StringBuilder("John"),new StringBuilder("Efe")};
         replaceChar(builders);
 
@@ -24,9 +23,6 @@ public class Practice3 {
         arr[0] = "dun";
         arr[3] = "guzeldi";
         System.out.println(Arrays.toString(arr));
-
-
-
     }
 
     public static void replaceChar(StringBuilder [] arr){
@@ -36,6 +32,5 @@ public class Practice3 {
                 System.out.println(arr[i]);
             }
         }
-
     }
 }

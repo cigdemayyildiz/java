@@ -9,10 +9,7 @@ public class Practice4 {
 
         StringBuilder builder = new StringBuilder("urjsd123idfvne5y24fgiero%8lk");
         System.out.println(calculate(builder));
-
-
     }
-
 
     public static int calculate(StringBuilder digits){
         int sum = 0;
@@ -27,7 +24,6 @@ public class Practice4 {
             }
         }
         return sum;
-
     }
 }
 

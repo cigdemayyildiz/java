@@ -33,7 +33,6 @@ public class Practice {
         test = test.concat(" is a testing tool.");
         System.out.println(test); // Selenium Web Driver is a testing tool.
 
-
         StringBuilder builder = new StringBuilder("Test");
         System.out.println(builder); // Test
 
@@ -46,22 +45,18 @@ public class Practice {
         System.out.println(builder3);
 
         // append();
-
         builder3.append(3);
         System.out.println(builder3); // Test is necessary3
 
         // charAt();
-
         builder.charAt(0);
         System.out.println(builder.charAt(0)); // T
 
         // indexOf();
-
         builder3.indexOf("s");
         System.out.println(builder3.indexOf("s")); // 2
 
         // length();
-
         builder3.length();
         System.out.println(builder3.length()); // 18
 
@@ -76,7 +71,6 @@ public class Practice {
 
 
         // substring();
-
         String sub = builder3.substring(builder3.indexOf("*")); // bu islem icin String i reassign etmelisin
         // cunku substring methodunun return tipi String, StringBuilder degil
         System.out.println(sub); // *t is necessary3
@@ -87,13 +81,11 @@ public class Practice {
         StringBuilder builder2 = new StringBuilder("Interview");
 
         // reverse();
-
         builder2.reverse();
         System.out.println(builder2); // hepsini tersten yazdiriyor
         builder2.reverse(); // weivretnI
 
         // insert();
-
         builder2.insert(1,"$$$"); // verdigin index numarasina ait field i degistiriyor
         System.out.println(builder2); // I$$$nterview
         int [] nums = {1,2,3};
@@ -104,12 +96,10 @@ public class Practice {
         System.out.println(builder2); // Cat{name='Tom', gender='M'}I$$$n[1, 2, 3]terview
 
         // delete();
-
         builder2.delete(0,builder2.indexOf("I"));
         System.out.println(builder2); // I$$$n[1, 2, 3]terview
 
         // deleteCharAt();
-
         builder2.deleteCharAt(5);
         System.out.println(builder2); // I$$$n1, 2, 3]terview
 
@@ -119,6 +109,5 @@ public class Practice {
         builder2 = builder2.append("terview");
         System.out.println(builder2); // I$$$n1, 2, 3]terviewterview
         System.out.println(builder2.lastIndexOf("view")); // 23
-
     }
 }

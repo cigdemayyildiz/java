@@ -17,8 +17,6 @@ public class Practice2 {
 
         String str = "-I-n-t-e-r-v-i-e-w-";
         delete(str);
-
-
     }
 
 
@@ -30,9 +28,5 @@ public class Practice2 {
             }
         }
         System.out.println(builder);
-
-
-
-
     }
 }

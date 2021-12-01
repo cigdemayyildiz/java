@@ -14,9 +14,5 @@ public class Task {
             string+=ch + ", ";
         }
         System.out.println(string);
-
-
-
-
     }
 }
