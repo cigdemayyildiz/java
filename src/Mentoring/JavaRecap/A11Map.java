@@ -35,9 +35,5 @@ public class A11Map {
             }
         }
         System.out.println(map);
-
-
     }
-
-
 }
