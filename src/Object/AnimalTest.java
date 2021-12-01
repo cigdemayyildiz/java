@@ -67,8 +67,5 @@ public class AnimalTest extends Animal { // bunun anlami AnimalTest Animal class
         bird.run("down");
 
         System.out.println(dog.equals(dog,cat)); // false
-
-
-
     }
 }

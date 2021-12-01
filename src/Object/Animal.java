@@ -71,7 +71,6 @@ public class Animal { // Animal class a child class of Object class
     }
 
     */
-
     // Scanner input = new Scanner(System.in);
     // Scanner objesi olusturmak istiyorsan Scanner class kullanman gerekir.
     // Random number = new Random();
@@ -88,7 +87,6 @@ public class Animal { // Animal class a child class of Object class
 
     // class Car {} --> it is way to create a class
     // public class {} --> public means everybody can access this class
-
 }
 
 
