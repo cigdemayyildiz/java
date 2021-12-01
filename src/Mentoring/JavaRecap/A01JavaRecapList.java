@@ -26,7 +26,4 @@ public class A01JavaRecapList {
     21-Polymorphism
     22-Exception
      */
-
-
-
 }
