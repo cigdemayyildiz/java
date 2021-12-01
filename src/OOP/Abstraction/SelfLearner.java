@@ -16,5 +16,4 @@ public abstract class SelfLearner extends Student{
     public void study(){
         System.out.println("Self learner is studying");
     }
-
 }

@@ -2,7 +2,6 @@ package OOP.Abstraction;
 
 public class OnlineStudents extends Student{
 
-
     @Override
     public void attend() {
 

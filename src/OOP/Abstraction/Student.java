@@ -1,7 +1,6 @@
 package OOP.Abstraction;
 
 public abstract class Student {
-
     /*
         ============ABSTRACTION============
 

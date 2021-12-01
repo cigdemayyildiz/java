@@ -2,7 +2,6 @@ package OOP.Abstraction;
 
 public class CampusStudent extends Student{
 
-
     // it is Concrete class because it's implementing abstract classes methods
 
     CampusStudent(){}
@@ -25,6 +24,5 @@ public class CampusStudent extends Student{
     public int studyTime(int hour) {
         return 8;
     }
-
 
 }

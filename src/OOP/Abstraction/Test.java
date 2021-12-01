@@ -19,9 +19,7 @@ public class Test {
         Student campusStudent1 = new CampusStudent("mehmet");
         System.out.println(campusStudent1.name);
 
-
         OnlineStudents onlineStudents = new OnlineStudents();
         onlineStudents.studyTime(8);
-
     }
 }
