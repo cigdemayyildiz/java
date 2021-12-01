@@ -36,10 +36,5 @@ public class Test {
         triangle.info("abc");
         square.info("bca");
         shape.info("ggg");
-
-
-
-
     }
-
 }

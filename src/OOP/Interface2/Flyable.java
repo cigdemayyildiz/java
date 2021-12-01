@@ -12,5 +12,4 @@ public interface Flyable {
     default void info(){
         System.out.println("Flyable info");
     }
-
 }

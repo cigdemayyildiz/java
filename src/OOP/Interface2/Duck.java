@@ -29,5 +29,4 @@ public class Duck extends Animal implements Flyable, CanSwim{ // Interface2 icin
     public void info(){
         System.out.println("Duck info");
     }
-
 }

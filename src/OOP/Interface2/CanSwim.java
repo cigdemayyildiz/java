@@ -10,6 +10,4 @@ public interface CanSwim {
     default void info(){
         System.out.println("CanSwim info");
     }
-
-
 }

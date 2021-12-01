@@ -9,7 +9,4 @@ public class Dolphin implements CanSwim{ // Doplhin is concrete class
     public void eat(){
         System.out.println("Doplhin is eating");
     }
-
-
-
 }

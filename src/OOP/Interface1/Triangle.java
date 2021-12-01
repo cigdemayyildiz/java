@@ -7,11 +7,9 @@ public class Triangle implements Shape{
     int height;
 
     public void area(){
-
     }
 
     public void area1(){
-
     }
 
     public int perimeter(){
@@ -21,12 +19,10 @@ public class Triangle implements Shape{
 
     public Integer perimeter1(int side){
         return (side*height)/2;
-
     }
 
     public Double perimeter2(){
         return 10.5;
-
     }
 
     @Override

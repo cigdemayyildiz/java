@@ -13,6 +13,4 @@ public class Bird implements Flyable{ // bird is concrete class cunku methodlari
     public void sleep(){
         System.out.println("Bird is sleeping");
     }
-
-
 }

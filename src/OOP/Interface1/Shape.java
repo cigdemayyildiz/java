@@ -50,7 +50,4 @@ public interface Shape {
     default void smile(){
         System.out.println("Smiling");
     }
-
-
-
 }

@@ -22,7 +22,5 @@ public class Test {
          duck.info();
          bird.info();
          dolphin.info();
-
-
     }
 }

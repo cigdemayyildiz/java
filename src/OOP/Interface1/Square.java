@@ -39,6 +39,4 @@ public class Square implements Shape{ // Square normal bir class ti implements k
     public void info(String name) {
         Shape.super.info(name);
     }
-
-
 }
