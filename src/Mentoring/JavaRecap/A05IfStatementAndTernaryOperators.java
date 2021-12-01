@@ -5,7 +5,6 @@ public class A05IfStatementAndTernaryOperators {
     public static void main(String[] args) {
 
         // We use if statements for conditions
-
         int a = 5;
         int b = 6;
         if (b>a){
