@@ -7,7 +7,6 @@ public class A12StaticAndInstanceBlock {
     // The main difference between them is all about calling static block which belongs to class 1 time and all the way top.
     // Instance block belongs object and it will go after static as many as object you created.
 
-
     static {
         System.out.println("Static block"); // main method icine alamazsin bu sinifa ait methoda ait degil
     }
@@ -27,7 +26,5 @@ public class A12StaticAndInstanceBlock {
         {
             System.out.println("Instance block");
         }
-
-
     }
 }
