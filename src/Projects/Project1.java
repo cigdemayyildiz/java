@@ -5,14 +5,12 @@ public class Project1 {
     public static void main(String[] args) {
 
         // TASK-5
-
         double inches = 2000;
         double meters = 0.0254;
 
         System.out.println(inches + " inch is " + inches*meters + " meters.");
 
         // TASK-6
-
         int minutes = 3456789;
         int hours = minutes/60;
         int days = hours/24;
@@ -77,8 +75,5 @@ public class Project1 {
         System.out.println(E+X+T+E+R+N+A+L);
         System.out.println(U+N+D+E+R+S+T+A+N+D);
         System.out.println(C+U+L+T+U+R+E);
-
-
     }
-
 }

@@ -7,7 +7,6 @@ public class Project3 {
     public static void main(String[] args) {
 
         // TASK-2
-
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter a String value");
         String string = input.nextLine(); // Definition of Science
@@ -18,7 +17,6 @@ public class Project3 {
         System.out.println(string.substring(startingNumber-1, endingNumber)); // efin
 
         // TASK-3
-
         String word1 = " Snicker ";
         String word2 = "Cookie";
 
@@ -26,7 +24,6 @@ public class Project3 {
         System.out.println(word2.toLowerCase().replace('o', 'u').concat("s").startsWith("C")); // false
 
         // TASK-4
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the first word include with Java");
         String firstWord = scanner.nextLine();
@@ -47,7 +44,6 @@ public class Project3 {
         System.out.println(isAllConditionProvided);
 
         // TASK-5
-
         Scanner scanner1 = new Scanner(System.in);
         System.out.println("Please enter any three words with space between them");
         String usersInput = scanner1.nextLine();
@@ -64,7 +60,6 @@ public class Project3 {
 
 
         // TASK-6
-
         Scanner input1 = new Scanner(System.in);
         System.out.println("Please enter three ingredients with spaces:");
         String ingredients = input1.nextLine();
@@ -89,17 +84,14 @@ public class Project3 {
 
 
         // TASK-7
-
         Scanner input2 = new Scanner(System.in);
         System.out.println("Please enter the String with the following format “ word “");
         String twoWord = input2.nextLine();
-
 
         String trimmed = twoWord.trim();
         System.out.println(trimmed);
         String firstPartOfTwoWord = trimmed.substring(0, trimmed.indexOf(" "));
         String secondPartOfTwoWord = trimmed.substring(trimmed.indexOf(' ')+1);
         System.out.println(firstPartOfTwoWord + " " + secondPartOfTwoWord.substring(0,1).toUpperCase()+secondPartOfTwoWord.substring(1));
-
     }
 }

@@ -4,7 +4,7 @@ public class Project2 {
 
     public static void main(String[] args) {
 
-// Task-1
+        // Task-1
 
         /*
         1.  check internet connection;
@@ -27,7 +27,6 @@ public class Project2 {
 
 
         // Task-2
-
         int quarters = 5;
         int dimes = 4;
         int nickels = 3;
@@ -42,7 +41,6 @@ public class Project2 {
         System.out.format("%.2f", total);
 
         // Task-3 Example-1
-
         int balance = 236;
         int quarter = 25;
         int dime = 10;
@@ -60,7 +58,6 @@ public class Project2 {
         System.out.println("\n" + "$" + balance * .01 + " will make " + result + " quarters " + result2 + " dime " + result4 + " nickels and " + result5 + " penny.");
 
         // Task-3 Example-2
-
         int _balance = 522;
         int _quarter = 25;
         int _dime = 10;
@@ -78,7 +75,6 @@ public class Project2 {
         System.out.println("$" + _balance * .01 + " will make " + _result + " quarters " + _result2 + " dime " + _result4 + " nickels and " + _result5 + " pennies.");
 
         // Task-4 Example-1
-
         int number = 578432;
         int digit1 = number % 10;
         number = number / 10;
@@ -96,7 +92,6 @@ public class Project2 {
         System.out.println("The Sum of all digits is " + (digit6 + digit5 + digit4 + digit3 + digit2 + digit1));
 
         // Task-4 Example-2
-
         int number1 = 327695;
         int _digit1 = number1 % 10;
         number1 = number1 / 10;
@@ -114,7 +109,6 @@ public class Project2 {
         System.out.println("Sum of all digits is " + (_digit6 + _digit5 + _digit4 + _digit3 + _digit2 + _digit1));
 
         // Task-5 Example-1
-
         int number2 = 53876;
         int $digit1 = number2 % 10;
         number2 = number2 / 10;
@@ -129,7 +123,6 @@ public class Project2 {
         System.out.println("The output is " + $digit1 + $digit2 + $digit3 + $digit4 + $digit5);
 
         // Task-5 Example-2
-
         int number3 = 97352;
         int lastDigit = number3 % 10;
         number3 = number3 / 10;
@@ -142,7 +135,6 @@ public class Project2 {
         int firstDigit = number3 % 10;
 
         System.out.println("The output is " + lastDigit + forthDigit + thirdDigit + secondDigit + firstDigit);
-
     }
 }
 

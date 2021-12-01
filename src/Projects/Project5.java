@@ -16,7 +16,6 @@ public class Project5 {
 
 
         //TASK-2
-
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the min number");
         int minNumber = input.nextInt();
@@ -41,7 +40,6 @@ public class Project5 {
         System.out.println(sum);
 
         //TASK-3
-
         System.out.println("Please enter a number");
         int number = input.nextInt();
 
@@ -64,7 +62,6 @@ public class Project5 {
 
 
         //TASK-4
-
         System.out.println("Please enter a number between 0 to 10");
         int num = input.nextInt();
 
@@ -77,7 +74,6 @@ public class Project5 {
         }
 
         //TASK-5
-
         System.out.println("Please enter a number between 0 to 10");
         int numb = input.nextInt();
 
@@ -90,7 +86,6 @@ public class Project5 {
         }
 
         //TASK-6
-
         input.nextLine();
         System.out.println("Please enter a sentence");
         String sentence = input.nextLine();
@@ -105,7 +100,6 @@ public class Project5 {
 
 
         //TASK-7
-
         System.out.println("Please enter a sentence");
         String text = input.nextLine();
 
@@ -120,7 +114,5 @@ public class Project5 {
                 System.out.print(text.charAt(i));
             }
         }
-
-
     }
 }
