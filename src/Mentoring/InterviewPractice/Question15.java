@@ -5,7 +5,6 @@ public class Question15 {
     public static void main(String[] args) {
 
         // How to print the star tree?
-
         int star = 3;
         for (int i=0; i<=star; i++){
             for (int j=0; j<=star-i; j++){
@@ -14,10 +13,6 @@ public class Question15 {
                 System.out.print("* ");
             }
             System.out.println();
-    }
-
-
-
-
+        }
     }
 }

@@ -5,7 +5,6 @@ public class Question16 {
     public static void main(String[] args) {
 
         // How to find the sum of digits from a given number?
-
         int number = 123;
         int sum = 0;
         String str = Integer.toString(number);
@@ -14,7 +13,6 @@ public class Question16 {
             sum+=Integer.parseInt(String.valueOf(str.charAt(i)));
         }
         System.out.println(sum);
-
 
         int number1=4577;
         int originalNum=number1;
@@ -26,8 +24,6 @@ public class Question16 {
         }
         System.out.println("The sum of "+originalNum+" is equals to "+sum1);
 
-
-
         int num = 345;
         int originNum = num;
         int summ = 0;
@@ -36,6 +32,5 @@ public class Question16 {
             num=num/10;
         }
         System.out.println(summ);
-
     }
 }

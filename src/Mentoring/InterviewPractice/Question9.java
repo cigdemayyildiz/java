@@ -8,7 +8,6 @@ public class Question9 {
     public static void main(String[] args) {
 
         // How can you remove all duplicates from ArrayList?
-
         ArrayList<String> list = new ArrayList<>();
         list.add("Ali");
         list.add("Ali");

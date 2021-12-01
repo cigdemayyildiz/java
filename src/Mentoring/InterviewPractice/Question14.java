@@ -5,7 +5,6 @@ public class Question14 {
     public static void main(String[] args) {
 
         // How to find the perfect number?
-
         int number = 30;
         int sum = 0;
         for (int i = 1; i < number; i++) {
@@ -18,10 +17,7 @@ public class Question14 {
         } else {
             System.out.println(number + " is NOT a perfect number");
         }
-
-
         System.out.println(isPerfect(28));
-
     }
 
         static boolean isPerfect(int n) {
@@ -45,5 +41,4 @@ public class Question14 {
 
             return false;
         }
-
 }

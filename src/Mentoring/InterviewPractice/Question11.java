@@ -8,7 +8,6 @@ public class Question11 {
     public static void main(String[] args) {
 
         // How to find count of each letter in the String?
-
         String str = "Today is a beautiful day to study Java";
 
         Map<Character, Integer> result = new LinkedHashMap<>();
@@ -23,6 +22,5 @@ public class Question11 {
         }
         System.out.println(result);
         System.out.println(result.entrySet());
-
     }
 }

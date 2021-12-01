@@ -19,8 +19,5 @@ public class Question7 {
         }else {
             System.out.println(number+" is prime");
         }
-
-
-
     }
 }

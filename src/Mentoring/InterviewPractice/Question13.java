@@ -7,7 +7,6 @@ public class Question13 {
     public static void main(String[] args) {
 
         // How to find the missing number in an array?
-
         int [] array = {0,4,2,3,6,5,8,9,7};
         System.out.println(Arrays.toString(array));
         Arrays.sort(array);
@@ -19,8 +18,5 @@ public class Question13 {
                 break;
             }
         }
-
-
-
     }
 }
