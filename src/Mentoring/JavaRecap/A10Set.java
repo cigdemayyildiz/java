@@ -10,5 +10,4 @@ public class A10Set {
     // LinkedHashSet --> it stores the object insertion order (how you input)
     // TreeSet --> it stores the object ascending order(if the elements alphabetical a to z, if numbers smallest to biggest)
     // syntax --> Set<String> set = new TreeSet<>();
-
 }
