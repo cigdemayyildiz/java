@@ -2,6 +2,7 @@ package Mentoring.JavaRecap;
 
 public class A16AbstractInterface {
 
+
     // Possible Interview Questions
     // What is the difference between Abstract and Interface?
     // *Abstract class is declared with 'abstract' keyword
