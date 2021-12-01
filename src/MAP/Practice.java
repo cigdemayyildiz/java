@@ -113,15 +113,12 @@ public class Practice {
         // HashMap <ArrayList<Integer>, Set<String>> map = new HashMap<>();
         // HashMap <ArrayList<Integer>, HashMap<String, Integer>> map = new HashMap<>();
 
-
         HashMap <Integer, String> map1 = new HashMap();
 
         map1.put(123, "Cigdem");
         map1.put(124, "John");
         map1.put(125, "Koray");
         map1.put(126, "Ozlem");
-
-
 
         System.out.println(map1); // {123=Cigdem, 124=John, 125=Koray, 126=Ozlem}
 
@@ -145,7 +142,6 @@ public class Practice {
 
 
         // get();
-
         System.out.println(map1.get(123)); // Leyla // get(); komutu ile hashMap icinden bir veriyi getirebilirsin.
         System.out.println(map1.get(null)); // Alex
         String nullValue = map1.get(null); // hashMap icinden getirdigin veriyi verinin tipi ne ise o data tipinde store edebilirsin.
@@ -158,42 +154,33 @@ public class Practice {
 
         System.out.println(map1.keySet()); // [null, 130, 135, 123, 124, 125, 126, 127]
 
-
-
         Set keysOfMap = map1.keySet(); // Set icine store etmelisin
         System.out.println(keysOfMap); // [null, 130, 135, 123, 124, 125, 126, 127]
 
        for (Object key : keysOfMap){
            System.out.println(map1.get(key));
-
        }
-
 
         // I want you to write a method takes Map<String,String> as a parameter
         // remove all the items that has an empty String value
 
-
         Map<String,String> map = new HashMap<>();
-       map.put("T", "F");
-       map.put("F", " ");
+        map.put("T", "F");
+        map.put("F", " ");
         System.out.println(removeItems(map));
-
-
     }
+
     public static Map<String,String> removeItems(Map<String,String> map){
 
         // we should see every value in this map
         // we need to check ones are empty then delete it
-
         Set<String> sets = map.keySet();
         for (String key : sets){
             String value = map.get(key);
             if (value.equals(" ")){
                 map.remove(key);
-
             }
         }
        return map;
-
     }
 }

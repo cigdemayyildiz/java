@@ -21,7 +21,6 @@ public class Practice2 {
 
         map.put(null,null);
 
-        
         System.out.println(map); // {3456=Denver, null=null, 1234=Chicago, 4567=Austin, 2345=New York}
 
         map.put(2345, "California");
@@ -48,7 +47,6 @@ public class Practice2 {
 
         System.out.println(map.getOrDefault(6789, "123")); // 123 --> eger key tanimlanmamissa burada
                                                                         // girdigin value yu key siz olarak yazdiriyor
-
         System.out.println("**");
         System.out.println(map.get(1));
         System.out.println("**");
@@ -68,7 +66,6 @@ public class Practice2 {
             // pass each key into get method to get values
         }
 
-
         Collection<String> cities = map.values();
         System.out.println(cities); // [Denver, YYYY, Austin, California]
 
@@ -77,12 +74,5 @@ public class Practice2 {
         for (String city: map.values()){ // source u ana yerden de cekebilirsin, store ettigin yerden cagirmasan da sonuca ulasirsin
             System.out.println(city); // Denver, YYYY, Austin, California
         }
-
-
-
-
-
-
-
     }
 }

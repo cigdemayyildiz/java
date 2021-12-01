@@ -38,6 +38,4 @@ public class Employee {
     public static void printId(HashMap<Long, Employee> map){
         System.out.println(map.keySet());
     }
-
-
 }

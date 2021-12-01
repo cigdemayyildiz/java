@@ -22,8 +22,6 @@ public class Practice3 {
         // create a method which takes a parameter of map, and this method will print out each extension one by one
 
         companyMap(dataMap);
-
-
     }
 
     public static void companyMap(HashMap<String, Integer> data){
@@ -40,7 +38,5 @@ public class Practice3 {
 //            System.out.println(key);
 //
 //        }
-
-
     }
 }

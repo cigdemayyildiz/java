@@ -22,7 +22,5 @@ public class EmployeeTest {
 
         employee1.printNames(employees);
         employee1.printId(employees);
-
     }
-
 }

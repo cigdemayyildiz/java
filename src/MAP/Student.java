@@ -82,11 +82,5 @@ public class Student {
         students.forEach(item -> System.out.println(item));
         System.out.println();
         students.forEach(System.out::println);
-
-
-
-
-
-
     }
 }

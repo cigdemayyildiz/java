@@ -22,7 +22,5 @@ public class CountAndStore {
             }
         }
         System.out.println(brandCounts); // {Nike=2, Reebok=1, Clark=1, Armani=1, Adidas=1, Puma=3}
-
-
     }
 }

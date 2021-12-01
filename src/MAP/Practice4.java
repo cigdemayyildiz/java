@@ -32,9 +32,6 @@ public class Practice4 {
 
         for (Map.Entry<String, Integer> key : data){
             System.out.println(key);
-
         }
-
-
     }
 }

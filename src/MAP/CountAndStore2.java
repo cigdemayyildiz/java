@@ -22,6 +22,5 @@ public class CountAndStore2 {
             }
         }
         System.out.println(letterCount);
-
     }
 }

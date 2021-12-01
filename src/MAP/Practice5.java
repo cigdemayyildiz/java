@@ -12,7 +12,6 @@ public class Practice5 {
         LinkedHashMap<String, Double> map2 = new LinkedHashMap();
         TreeMap<String,Double> map3 = new TreeMap();
 
-
         // HashMap                          LinkedHashMap                       TreeMap
 
         map1.put("Coke", 3.99);             map2.put("Coke", 3.99);             map3.put("Coke", 3.99);
@@ -24,7 +23,5 @@ public class Practice5 {
         // map1 = {null=9.99, Lemonade=1.99, Coke=3.99, Coffee=4.99}
         // map2 = {Coke=3.99, Lemonade=1.99, Coffee=4.99, null=9.99}
         // map3 = {Coffee=4.99, Coke=3.99, Lemonade=1.99}
-
-
     }
 }
