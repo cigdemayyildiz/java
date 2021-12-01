@@ -10,6 +10,5 @@ public class Task4 {
 
         System.out.println(meter + " meter is " + foot + " foot or " + centimeter + " centimeter.");
         // 8 kg is 17.64 pounds or 8000 grams.
-
     }
 }

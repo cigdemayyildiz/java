@@ -10,6 +10,5 @@ public class Task1 {
 
         System.out.println("My age is " + myAge + ", weight is " + myWeight + " kg and, height is " + myHeight + "m.");
         // My age is 30, weight is 52kg and, height is 1.65m.
-
     }
 }

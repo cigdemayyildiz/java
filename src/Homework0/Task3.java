@@ -8,7 +8,6 @@ public class Task3 {
         int grams = kilograms*1000;
         float pounds = kilograms*2.205f;
 
-
         System.out.println(kilograms + " kg is " + pounds + " pounds or " + grams + " grams.");
         // 8 kg is 17.64 pounds or 8000 grams.
     }

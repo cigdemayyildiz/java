@@ -8,7 +8,6 @@ public class Task2 {
         float myHeight = 1.65f;
 
         float myBMI = myWeight/(myHeight*myHeight);
-
         System.out.println("My BMI = " + myBMI); // My BMI = 19.100094
     }
 }
