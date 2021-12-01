@@ -20,6 +20,5 @@ public class BooleanPractice {
 
         // System.out.println(isBreakTime+isClear); it won't compile because boolean is like a String
         System.out.println("!!"+isBreakTime+isClear); // it is compile because you start the String
-
     }
 }

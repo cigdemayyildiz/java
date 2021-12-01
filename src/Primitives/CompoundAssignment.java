@@ -34,7 +34,5 @@ public class CompoundAssignment {
         modulus %= payment; // first java divides 1000 by 400 and finds the remainder and then it assigns the value for modulus variable
 
         System.out.println(modulus); // 200
-
-
     }
 }

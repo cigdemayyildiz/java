@@ -29,6 +29,5 @@ public class CharPractice {
         int c = 'C', i = 'I', g = 'G', d = 'D', e = 'E', m = 'M';
         System.out.println(""+c+" "+i+" "+g+" "+d+" "+e+" "+m); // 67 73 71 68 69 77
         System.out.println(c+i+g+d+e+m); // 425
-
     }
 }

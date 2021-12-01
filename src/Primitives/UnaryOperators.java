@@ -41,6 +41,5 @@ public class UnaryOperators {
         a--; // 49
         a = studentNumber; // 24
         System.out.println(a--); // 24
-
     }
 }

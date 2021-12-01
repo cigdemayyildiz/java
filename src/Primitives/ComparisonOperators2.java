@@ -37,7 +37,5 @@ public class ComparisonOperators2 {
 
         boolean r8 = result1 != result2; // iki boolean i karsilastirirken sadece esit ya da esit degil comparison operatorlerini kullanabilirsin. bir boolen bir digerinden buyuk mu kucuk mu diye karsilastiramazsin.
         System.out.println(r8); // false
-
-
     }
 }

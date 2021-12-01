@@ -22,7 +22,5 @@ public class RemainderPractice1 {
         int sumOfDigits = digit1+digit2+digit3;
 
         System.out.println("The sum of digits = " + sumOfDigits); // The sum of digits = 6
-
-
     }
 }

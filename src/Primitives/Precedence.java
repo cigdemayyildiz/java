@@ -45,6 +45,5 @@ public class Precedence {
         System.out.println("Total shopping $" + (food+electronics+shoes));
         System.out.println("Total tax $" + (resultOfFoodTax+resultOfElectronicsTax+resultOfShoesTax));
         System.out.println("Total amount you have to pay $" + (resultOfFood+resultOfElectronics+resultOfShoes));
-
     }
 }

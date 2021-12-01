@@ -32,7 +32,5 @@ public class NumericPromotion {
         // int i2 = db2;  you can not store a double data type in aa int data type
 
         // long l1 = db2; data type doesn't only mean capacity, you cannot store double type of value in a long data type
-
-
     }
 }

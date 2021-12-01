@@ -29,7 +29,5 @@ public class ArithmeticOperators {
         int division1 = a/2;
 
         System.out.println(division1);
-
-
     }
 }

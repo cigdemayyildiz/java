@@ -24,7 +24,5 @@ public class RemainderPractice2 {
         int result = digit1*digit2*digit3*digit4;
 
         System.out.println("The product is " + result); // The product is 360
-
-
     }
 }

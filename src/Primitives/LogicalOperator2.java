@@ -16,7 +16,5 @@ public class LogicalOperator2 {
 
         boolean attend = (kidAge >= minAge && kidAge <= maxAge) && kidHeight >= heightLimit;
         System.out.println(attend); // false
-
-
     }
 }

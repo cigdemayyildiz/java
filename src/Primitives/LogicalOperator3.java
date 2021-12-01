@@ -11,6 +11,5 @@ public class LogicalOperator3 {
 
         boolean passACourse = myAttend >= attend || myScore > score;
         System.out.println("Can I pass this course? --> " + passACourse);
-
     }
 }

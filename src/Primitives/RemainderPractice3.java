@@ -14,7 +14,5 @@ public class RemainderPractice3 {
         int result = phonePrice%monthlyPayment;
 
         System.out.println("The last month's payment --> $" + result); // The last month's payment --> $75
-
     }
-
 }

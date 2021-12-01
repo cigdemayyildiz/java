@@ -16,7 +16,5 @@ public class LogicalNegation {
 
         System.out.println(isCarOn); // false
         System.out.println(!isCarOn); // true
-
-
     }
 }

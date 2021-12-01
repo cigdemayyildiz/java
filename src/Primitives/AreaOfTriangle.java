@@ -22,6 +22,5 @@ public class AreaOfTriangle {
         int baSe = 10, heIght = 12, arEa = baSe * heIght / 2;
 
         System.out.println(arEa);
-
     }
 }

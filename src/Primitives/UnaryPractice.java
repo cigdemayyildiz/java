@@ -14,6 +14,5 @@ public class UnaryPractice {
         System.out.println("Payment for kk " + --kk); // 11
         System.out.println(dd);
         System.out.println(kk);
-
     }
 }

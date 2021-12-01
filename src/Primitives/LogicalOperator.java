@@ -39,8 +39,5 @@ public class LogicalOperator {
         myMoney = true;
         go = myNewAge >= ageRqrmnt || myMoney==moneyRqrmnt;
         System.out.println(go); // true
-
-
-
     }
 }

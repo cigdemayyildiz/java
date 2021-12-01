@@ -36,6 +36,5 @@ public class CastingPractice {
         System.out.println(i3); // 14
         int i4 = (int) d3;
         System.out.println(i4);
-
     }
 }

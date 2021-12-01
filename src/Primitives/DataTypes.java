@@ -32,8 +32,5 @@ public class DataTypes {
         double number13 = 89; // double data type can store int data types because it means 89 --> 89.0
 
         // most common primitive data type usages are int, double, long, boolean.
-
-
-
     }
 }
