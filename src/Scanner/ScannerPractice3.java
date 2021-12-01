@@ -18,7 +18,5 @@ public class ScannerPractice3 {
         System.out.println("What is you state: ");
         char firstLetter = scanner.next().charAt(0); // yukaridaki ornegi next() ile yaptigim icin next(), bu nextLine() da olabilir
         System.out.println(firstLetter);
-
-
     }
 }

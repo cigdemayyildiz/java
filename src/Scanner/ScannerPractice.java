@@ -23,6 +23,5 @@ public class ScannerPractice {
         middleName = input.nextLine();
         System.out.println(middleName); // whatever users type
         System.out.println(firstName+" "+middleName+" "+lastName);
-
     }
 }

@@ -20,6 +20,5 @@ public class PracticeTask {
         double yourBMI = (int)(weight / (height*height));
 
         System.out.println("Your BMI is: " + yourBMI); // Your BMI is: 19.100091827364558
-
     }
 }

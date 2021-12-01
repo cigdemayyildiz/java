@@ -34,8 +34,5 @@ public class ScannerPractice2 {
         System.out.println("Please enter your city name: ");
         name+= input.next();
         System.out.println(name);
-
-
-
     }
 }

@@ -48,6 +48,5 @@ public class PracticeTask2 {
         String finalMoney = ("Your final balance is: $" + (money+deposit1+deposit2+deposit3-(phone+headphone)));
 
         System.out.println(finalMoney); // $732
-
     }
 }
