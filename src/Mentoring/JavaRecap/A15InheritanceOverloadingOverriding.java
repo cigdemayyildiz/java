@@ -17,7 +17,4 @@ public class A15InheritanceOverloadingOverriding {
     // How can you make connections between classes?
     // What is inheritance?
     // Inheritance is the way of making a connection between classes
-
-
-
 }
