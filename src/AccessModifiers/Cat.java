@@ -24,8 +24,5 @@ public class Cat extends Animal{
         a.sleep();
         a.run();
         a.swim();
-
-
     }
-
 }

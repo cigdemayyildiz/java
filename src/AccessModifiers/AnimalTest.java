@@ -13,8 +13,5 @@ public class AnimalTest {
         a.run();
         a.swim();
         a.sleep();
-
-
     }
-
 }
