@@ -41,7 +41,6 @@ public class Employee {
         }
         else{
             return salary*0.15;
-
         }
     }
 
@@ -55,7 +54,5 @@ public class Employee {
         System.out.println("Raise of Salary: "+ raiseSalary());
         System.out.println("Salary with tax and bonus: "+ (salary - tax()+ bonus()));
         System.out.println("Total salary with the raise of salary: "+ (salary + raiseSalary()));
-
     }
-
 }

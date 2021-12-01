@@ -6,6 +6,5 @@ public class EmpDriver {
 
         Employee employee1 = new Employee("David", 2000, 45, 1985);
         employee1.info();
-
     }
 }
