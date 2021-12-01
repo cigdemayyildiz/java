@@ -16,6 +16,5 @@ public class MultidimensionalArray3 {
 
         int [][] multiDim = new int[1][5]; // bu yontemle yazdiginda kullanacagin alanlari onceden belirlemen gerekiyor
         System.out.println(Arrays.deepToString(multiDim)); // [[0, 0, 0, 0, 0]]
-
     }
 }

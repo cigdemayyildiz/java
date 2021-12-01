@@ -26,7 +26,5 @@ public class SplitPractice {
                                                     // a lari yok etti ve onlarin yerinde , goruyorum cunku iki tane
                                                     // a var ve o iki a nin oldugu yerlerden cumleyi kesip uce ayirdi.
                                                     // 3 elements, 2 index are there
-
-
     }
 }

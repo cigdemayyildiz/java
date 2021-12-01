@@ -36,6 +36,5 @@ public class ArrayPractice4 {
         }
         System.out.println(Arrays.toString(longNames));
         System.out.println(Arrays.toString(shortNames));
-
     }
 }

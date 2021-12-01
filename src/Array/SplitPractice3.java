@@ -7,7 +7,6 @@ public class SplitPractice3 {
     public static void main(String[] args) {
 
         // find and print out words that has even letter of count
-
         String text = "Eagles are large, powerfully built birds of prey, with heavy heads and beaks. " +
                 "Even the smallest eagles, such as the booted eagle (Aquila pennata), which is comparable in size " +
                 "to a common buzzard (Buteo buteo) or red-tailed hawk (B. jamaicensis), have relatively longer and " +
@@ -45,8 +44,5 @@ public class SplitPractice3 {
         }
         System.out.println(count); // 119
         System.out.println(splitText.length); // 277
-
-
-
     }
 }

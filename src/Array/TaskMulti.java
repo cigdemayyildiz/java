@@ -37,7 +37,5 @@ public class TaskMulti {
                 System.out.println("Price for " + brands[i][j]+" is $"+prices[j][j]);
             }
         }
-
-
     }
 }

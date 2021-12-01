@@ -25,7 +25,6 @@ public class BinarySearch {
         System.out.println(Arrays.binarySearch(studentNumber, 111)); // -9
         System.out.println(Arrays.binarySearch(studentNumber, 49)); // -7
 
-
         String str = "Java";
         System.out.println(str.indexOf("a")); // 1
     }

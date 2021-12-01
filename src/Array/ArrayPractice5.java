@@ -7,7 +7,6 @@ public class ArrayPractice5 {
     public static void main(String[] args) {
 
         // Another way to create array
-
         int [] zipCodes = {1234, 4321, 5678, 9867};
 
         System.out.println(zipCodes.length); // 4
@@ -41,7 +40,5 @@ public class ArrayPractice5 {
 
         int [] chars = {'A'};
         System.out.println(Arrays.toString(chars)); // 65
-
-
     }
 }

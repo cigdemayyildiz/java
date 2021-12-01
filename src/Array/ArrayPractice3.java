@@ -19,7 +19,7 @@ public class ArrayPractice3 {
             System.out.println("Please enter " + (i+1) + ".name");
             names[i]=input.nextLine();
 
-        }System.out.println(Arrays.toString(names));
-
+        }
+        System.out.println(Arrays.toString(names));
     }
 }

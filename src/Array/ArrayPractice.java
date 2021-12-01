@@ -70,6 +70,5 @@ public class ArrayPractice {
         boolean [] bool = new boolean[2];
         bool [1]=true;
         System.out.println(Arrays.toString(bool));
-
     }
 }

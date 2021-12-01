@@ -27,7 +27,5 @@ public class SplitPractice2 {
 
         String text = "My \rfavorite \bcolor is \"blue\". \nHow about \fyou?\t \\"; // \t --> tab, \r --> cut before
         System.out.println(text);
-
-
     }
 }

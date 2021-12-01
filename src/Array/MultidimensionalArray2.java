@@ -18,7 +18,6 @@ public class MultidimensionalArray2 {
         System.out.println(Arrays.deepToString(states)); // [[NY, PA], [IL, OH], [CA, WA]]
 
         // please create a for loop to print these states in 2 min
-
         String [] stateEmails = new String[6];
         int k =0;
         for (int i = 0; i < states.length; i++) {
@@ -31,7 +30,6 @@ public class MultidimensionalArray2 {
         System.out.println(Arrays.toString(stateEmails));
 
         // please create a for EACH loop to print these states in 2 min
-
         for (String str[]: states) {
             System.out.println(Arrays.toString(str));
         }
@@ -43,7 +41,6 @@ public class MultidimensionalArray2 {
         }
 
         // print these states in lower case
-
         for (String state []: states) {
             for (String stat: state) {
                 System.out.println(stat.toLowerCase());
@@ -57,9 +54,5 @@ public class MultidimensionalArray2 {
 
             }
         }
-
-
-
-
     }
 }

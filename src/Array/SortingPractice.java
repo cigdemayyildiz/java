@@ -7,7 +7,6 @@ public class SortingPractice {
     public static void main(String[] args) {
 
         // .sort() --> arranges the array from smaller to larger element
-
         int [] numbers = {45, 5, 6, 47, 57, 8, 12, 0, 30};
 
         System.out.println(Arrays.toString(numbers)); // [45, 5, 6, 47, 57, 8, 12, 0, 30]
@@ -29,6 +28,5 @@ public class SortingPractice {
         }
         Arrays.sort(colors);
         System.out.println(Arrays.toString(colors));
-
     }
 }

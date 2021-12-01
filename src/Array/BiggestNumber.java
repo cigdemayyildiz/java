@@ -13,7 +13,6 @@ public class BiggestNumber {
         int [] numbers = {45, 5, 6, 47, 57, 8, 12, 30};
         int [] smallNumbers;
 
-
         for (int i=0;i<numbers.length;i++){
             if (numbers[i]>10){
                 System.out.println(numbers[i]);
@@ -52,6 +51,5 @@ public class BiggestNumber {
 
         System.out.println(numbers[numbers.length-1]); // this is last element and also the biggest number since the array is sorted
         System.out.println(numbers[0]); // this is first element and also the smallest number since the array is sorted
-
     }
 }

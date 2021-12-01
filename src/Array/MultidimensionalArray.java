@@ -34,11 +34,7 @@ public class MultidimensionalArray {
             for (int j = 0; j < numbers[i].length; j++) {
 
                 System.out.print(numbers[i][j]+" ");
-
             }
-
         }
-
-
     }
 }

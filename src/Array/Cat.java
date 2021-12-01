@@ -4,8 +4,6 @@ import AccessModifiers.Animal;
 
 public class Cat extends Animal {
 
-
-
     @Override
     public String toString() {
         return "Cat{" +
@@ -15,13 +13,8 @@ public class Cat extends Animal {
     }
 
     public static void main(String[] args) {
-
         Animal a = new Animal();
-
         a.name = "Jerry";
         a.sleep();
-
-
-
     }
 }

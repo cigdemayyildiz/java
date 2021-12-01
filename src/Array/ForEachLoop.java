@@ -19,7 +19,6 @@ public class ForEachLoop {
             System.out.println(color);
         }
 
-
         int [] ids = {9,5,8,23,45,12,50,30,100,11};
         Arrays.sort(ids);
         for (int id: ids){
@@ -37,7 +36,6 @@ public class ForEachLoop {
         System.out.println();
 
         // print letters and numbers
-
         for (char ch: characters){
 
             if (Character.isAlphabetic(ch) || Character.isDigit(ch)){
@@ -47,13 +45,11 @@ public class ForEachLoop {
         System.out.println();
 
         // print all other symbols
-
         for (char ch: characters){
 
             if (!(Character.isAlphabetic(ch) || Character.isDigit(ch))){
                 System.out.println(ch);
             }
         }
-
     }
 }

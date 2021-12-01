@@ -7,7 +7,6 @@ public class StringPractice {
     public static void main(String[] args) {
 
         // String Practice
-
         String [] studentNames = new String[6];
 
         studentNames[5] = "Zolie";
@@ -25,12 +24,8 @@ public class StringPractice {
         System.out.println();
 
         // create a loop to print out elements from the array
-
-        for (int i=0;i<studentNames.length;i++){
+        for (int i=0;i<studentNames.length;i++) {
             System.out.print(studentNames[i] + " ");
         }
-
-
-
     }
 }
