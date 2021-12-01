@@ -20,9 +20,6 @@ public class SwitchPractice2 {
             case "LUNA":
                 System.out.println("Luna is here.");
                 break;
-
-
         }
-
     }
 }

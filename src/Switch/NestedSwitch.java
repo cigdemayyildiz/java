@@ -68,6 +68,5 @@ public class NestedSwitch {
                 System.out.println("Please choose a correct department number!");
                 break;
         }
-
     }
 }

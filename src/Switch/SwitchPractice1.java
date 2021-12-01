@@ -23,10 +23,6 @@ public class SwitchPractice1 {
             case 25:
                 System.out.println("Fourth");
                 break;
-
-
-
         }
-
     }
 }

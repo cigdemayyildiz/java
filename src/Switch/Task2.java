@@ -35,9 +35,6 @@ public class Task2 {
             default:
                 System.out.println("There is no matching color");
                 break;
-
         }
-
-
     }
 }

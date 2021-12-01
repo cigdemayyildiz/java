@@ -34,7 +34,6 @@ public class Task1 {
                 break;
             default:
                 System.out.println("You need to enter a number between 1 and 7");
-
         }
     }
 }
