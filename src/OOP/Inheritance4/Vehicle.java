@@ -49,5 +49,4 @@ public class Vehicle {
     protected Object accelerate(){
         return new Object();
     }
-
 }

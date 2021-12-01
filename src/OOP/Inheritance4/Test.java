@@ -10,15 +10,11 @@ public class Test {
         vehicle.start();
         vehicle.accelerate();
 
-
         Car car = new Car("Pathfinder", 2013,"Nissan", "Diesel");
         car.drive();
         car.accelerate();
 
         car.start();
         car.stop();
-
-
-
     }
 }

@@ -10,9 +10,11 @@ public class Car extends Vehicle{
 //        this.model = model;
 //        this.engineType = engineType;
     }
+
     public static void drive(){
         System.out.println("Car is moving");
     }
+
     public Integer accelerate(){
         System.out.println(super.model);
         return 5;
