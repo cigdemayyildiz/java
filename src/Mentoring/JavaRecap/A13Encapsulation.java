@@ -13,6 +13,7 @@ public class A13Encapsulation {
     // You can access the data by using CONSTRUCTOR which initialize the instance variables
     // You can access the data by using GETTER and SETTER
 
+
     private String name = "Ahmet";
     private String secondName = "Mehmet";
     private int age = 12;
