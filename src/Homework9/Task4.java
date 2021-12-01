@@ -42,6 +42,5 @@ public class Task4 {
         }
         System.out.println(Arrays.toString(number));
         System.out.println(secondLargest);
-
     }
 }

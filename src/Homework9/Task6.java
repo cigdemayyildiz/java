@@ -12,8 +12,5 @@ public class Task6 {
             numbers[i]=numbers[i]* numbers[i];
         }
         System.out.println(Arrays.toString(numbers));
-
-
-
     }
 }

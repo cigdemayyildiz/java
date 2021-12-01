@@ -14,6 +14,5 @@ public class Task5 {
                 fahrenheit[i] = (fahrenheit[i]-32) * 5/9;
             }
         System.out.println(Arrays.toString(celcius));
-
     }
 }

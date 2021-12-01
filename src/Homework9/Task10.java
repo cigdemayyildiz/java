@@ -26,9 +26,5 @@ public class Task10 {
         }
         System.out.println();
         System.out.println(Arrays.toString(numbers));
-
-
-
-
     }
 }
